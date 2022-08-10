@@ -1,0 +1,15 @@
+{
+  "authors" : [
+    "Alexey Melezhik"
+  ],
+  "description" : "Net Tools for Tomtit",
+  "license" : "Artistic-2.0",
+  "name" : "Tomtit::Profile::NetTools",
+  "provides" : {
+    "Tomtit::Profile::NetTools" : "lib/Tomtit/Profile/NetTools.rakumod"
+  },
+  "resources" : [
+    "check-server.raku"
+  ],
+  "version" : "0.0.1"
+}
